@@ -1,4 +1,28 @@
 ﻿{
-
+  "app-title": "Galería Art Institute",
+  "catalogue-title": "Catálogo de Arte",
+  "read-more": "Leer más",
+  "unavailable-artworks": "El servicio de obras de arte no está disponible en este momento",
+  "galleries": {
+    "impressionism": "Impresionismo",
+    "modern": "Arte Moderno"
+  },
+  "artwork": {
+    "artist": "Artista",
+    "date": "Fecha",
+    "medium": "Técnica",
+    "details": "Detalles de la Obra"
+  },
+  "authoring-phrase": {
+    "intro": "Hecho con",
+    "use": "utilizando",
+    "author": "por Diana Pareja - u202422589"
+  },
+  "footer": {
+    "copyright": "Copyright © 2026 Art Institute of Chicago. Todos los derechos reservados.",
+    "developed-by": "Desarrollado por Diana Pareja - u202422589",
+    "powered-by": "Contenido proporcionado por",
+    "and": "y"
+  }
   
 }
